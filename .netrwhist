@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/sirk/.cocos2d'
+let g:netrw_dirhist_2='/Users/sirk/android/eclipse/Eclipse.app'
+let g:netrw_dirhist_3='/Users/sirk/.gem'
+let g:netrw_dirhist_4='/Users/sirk/.rvm/bin'
+let g:netrw_dirhist_5='/Users/sirk/.nvm'
+let g:netrw_dirhist_6='/Users/sirk/.vim/.git'
